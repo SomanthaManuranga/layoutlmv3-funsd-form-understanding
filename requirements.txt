@@ -1,0 +1,9 @@
+torch>=2.1
+transformers>=4.46
+accelerate
+datasets
+evaluate
+seqeval
+pillow
+pytesseract  # also needs the Tesseract binary: apt-get install tesseract-ocr
+numpy

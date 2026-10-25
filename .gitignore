@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+layoutlmv3-funsd/
+layoutlmv3-funsd-final/
+*.safetensors
+*.bin
+.DS_Store
+Thumbs.db
